@@ -1,0 +1,2 @@
+let loginBg =''
+export {loginBg};
